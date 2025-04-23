@@ -26,5 +26,7 @@ Overall, this calculator project demonstrates the practical application of HTML 
 
 #OUTPUT 
 
+![Image](https://github.com/user-attachments/assets/93d8f9ad-72a7-45c2-a3c2-a86e4cecfa66)
+
 
 
